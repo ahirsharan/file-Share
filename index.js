@@ -13,7 +13,7 @@ const toast = document.querySelector(".toast");
 const host = "https://fileshare-sharan.herokuapp.com/";
 
 const uploadURL = `${host}api/files`;
-const maxAllowedSize = 100 * 1024 * 1024;
+const maxAllowedSize = 10 * 1024 * 1024;
 
 
 dropZone.addEventListener("dragover", (e) => {
@@ -65,7 +65,7 @@ const uploadFile = () => {
     const file = fileInput.files[0];
 
     if (file.size > maxAllowedSize) {
-        showToast("Max limit of 100MB exceeded!");
+        showToast("Max limit of 10MB exceeded!");
         resetFileInput();
         return;
     }
