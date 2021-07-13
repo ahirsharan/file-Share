@@ -1,4 +1,4 @@
-# fileTransfer
+# fileShare
 
 Frontend for the fileShare application.
 
