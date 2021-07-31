@@ -3,7 +3,7 @@
 
 This repository contains the frontend code for the fileShare application.
 
-![alt-text](https://i.ibb.co/rwfLcvK/up1.jpg) 
+![alt-text](https://i.ibb.co/0Chdj5P/vv.jpg) 
 
 Backend: [https://github.com/ahirsharan/fileShare](https://github.com/ahirsharan/fileShare)
 
