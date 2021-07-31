@@ -1,6 +1,6 @@
 :root {
     --main-bg-color: #eff5fe;
-    --border-color: #0288d147;
+    --border-color: #024bd18e;
     --container-width: 500px
 }
 
@@ -44,7 +44,7 @@ body {
 
 .dragged.drop-zone {
     background: var(--border-color);
-    border-color: blue
+    border-color: rgb(98, 0, 255)0, 132, 255)
 }
 
 .icon-container {
@@ -87,7 +87,7 @@ body {
 }
 
 .browseBtn {
-    color: #2196f3;
+    color: #4f21f3;
     cursor: pointer;
 }
 
@@ -126,7 +126,7 @@ body {
 .progress-bar {
     height: 3px;
     width: 100%;
-    background-color: #2196f3;
+    background-color: #2148f3;
     border-radius: 2px;
     transform-origin: left;
     transform: scaleX(0);
@@ -175,7 +175,7 @@ p.expire {
     left: 50%;
     transform: translate(-50%, 60px);
     padding: 10px 20px;
-    background: #2196f0;
+    background: #2158f0;
     color: white;
     border-radius: 5px;
     font-size: 18px;
