@@ -1,5 +1,5 @@
 # fileShare
-## Live Website: [https://github.com/ahirsharan/file-Share/](https://github.com/ahirsharan/file-Share/)
+## Live Website: [https://ahirsharan.github.io/file-Share/](https://ahirsharan.github.io/file-Share/)
 
 This repository contains the frontend code for the fileShare application.
 
